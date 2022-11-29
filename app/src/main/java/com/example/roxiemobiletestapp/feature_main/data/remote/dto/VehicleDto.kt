@@ -15,7 +15,7 @@ data class VehicleDto(
 ) {
     fun mapToVehicleModel() = VehicleModel(
         number = regNumber,
-        model = modelName.uppercase(),
+        model = modelName,
         photoKey = photo,
         driver = driverName
     )
