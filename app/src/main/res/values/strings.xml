@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roxie Taxi</string>
+    <string name="error_no_internet_connection">Нет подключения к интернету</string>
+    <string name="error_unknown">Произошла ошибка. Попробуйте повторить попытку позже</string>
+    <string name="text_start_address">Откуда:</string>
+    <string name="text_end_address">Куда:</string>
+    <string name="text_details">Детали заказа</string>
+    <string name="content_description_photo">Здесь находится изображения автомобиля такси</string>
+    <string name="text_driver">Водитель:</string>
+    <string name="text_car_model">Модель</string>
+    <string name="text_car_number">Номер</string>
+    <string name="error_image_not_loaded">Не удалось загрузить изображение</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Nedushny at 28/11/2022.
+  -->
+
+<resources>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="drawable_padding">8dp</dimen>
+    <dimen name="card_content_padding">8dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+</resources>
