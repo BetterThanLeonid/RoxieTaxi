@@ -1,4 +1,4 @@
-# RoxieTaxi
+# RoxieTaxi App
 RoxieTaxi is a test app for RoxieMobile
 
 The app shows information about taxi orders and also shows detail info about order
@@ -12,12 +12,13 @@ The app shows information about taxi orders and also shows detail info about ord
 
 ## Stack:
 - Clean + MVVM
-- Retrofit
+- Retrofit + OkHttp + Gson
 - WorkManager
 - Hilt
 - RecyclerView
 - Navigation Component
 - Kotlin Coroutines
+- SingleActivity
 
 ## Demonstration:
 ![Demonstration 1](https://im4.ezgif.com/tmp/ezgif-4-3af5025291.gif) 
