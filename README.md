@@ -20,4 +20,6 @@ The app shows information about taxi orders and also shows detail info about ord
 - Kotlin Coroutines
 
 ## Demonstration:
-![Demonstration](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Demonstration 1](https://im4.ezgif.com/tmp/ezgif-4-3af5025291.gif) 
+![Demonstration 2](https://im4.ezgif.com/tmp/ezgif-4-537daaab86.gif)
+![Demonstration 3](https://im4.ezgif.com/tmp/ezgif-4-24500560c5.gif)
