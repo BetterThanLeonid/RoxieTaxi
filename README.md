@@ -1,4 +1,4 @@
-# RoxieTaxy
+# RoxieTaxi
 RoxieTaxi is a test app for RoxieMobile
 
 The app shows information about taxi orders and also shows detail info about order
