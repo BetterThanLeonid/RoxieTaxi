@@ -5,8 +5,9 @@ The app shows information about taxi orders and also shows detail info about ord
 
 ## Tasks:
 - Currency transformation
-- List info about orders
-- Detail info about order
+- Order list
+- Order details
+- Navigation between order list and order details
 - Show picture in details
 - Delete picture after 10 minutes
 
